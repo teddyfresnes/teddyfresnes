@@ -13,7 +13,34 @@
     Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-  <br/><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="350"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddyfresnes&layout=compact" alt="Top Languages Used"/>
+  </div>
+  <div>
+    <h3>Niveau de compétence par langage :</h3>
+    <ul>
+      <li>Langages Web:
+        <ul>
+          <li>JavaScript <img src="https://img.shields.io/badge/Advanced-orange"/></li>
+          <li>HTML/CSS <img src="https://img.shields.io/badge/Advanced-orange"/></li>
+          <li>PHP <img src="https://img.shields.io/badge/Intermediate-yellow"/></li>
+        </ul>
+      </li>
+      <li>Langages généraux:
+        <ul>
+          <li>Python <img src="https://img.shields.io/badge/Intermediate-yellow"/></li>
+          <li>C <img src="https://img.shields.io/badge/Beginner-green"/></li>
+          <li>C++ <img src="https://img.shields.io/badge/Beginner-green"/></li>
+          <li>Java <img src="https://img.shields.io/badge/Intermediate-yellow"/></li>
+          <li>SQL <img src="https://img.shields.io/badge/Intermediate-yellow"/></li>
+          <li>Bash <img src="https://img.shields.io/badge/Intermediate-yellow"/></li>
+          <li>Autres langages <img src="https://img.shields.io/badge/Various-lightgrey"/></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <br/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="350"/>
 </div>
 
 ### 👨🏻‍💻 À propos de moi :
