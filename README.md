@@ -9,11 +9,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=teddyfresnes&style=flat-square&color=blue" alt=""/>
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
   <h2>
     Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
+  <br/><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="350"/>
 </div>
 
 ### 👨🏻‍💻 À propos de moi :
