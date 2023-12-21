@@ -46,6 +46,6 @@
 ### 👨🏻‍💻 À propos de moi :
 
 Je suis un passioné de l'informatique <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🏫 Je suis en licence projet WEB et Mobile à Sorbonne Université et **je recherche une alternance**
+- 🏫 Je suis en licence projet WEB et Mobile à Sorbonne Université et **je recherche actuellement un stage alterné**
 - 🖥️ J'aime apprendre de nouvelles choses, que ce soit en développement, en réseau ou en cybersécurité
 - 💬 Comment me contacter : [![Linkedin Badge](https://img.shields.io/badge/-Teddy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-koehren-51041320b/)
