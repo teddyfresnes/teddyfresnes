@@ -3,8 +3,8 @@
   <!--<img src="https://komarev.com/ghpvc/?username=teddyfresnes&style=flat-square&color=blue" alt=""/>-->
   <h5>Welcome to my github profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   <ul>
-    <li>🔎 I am passionate in computing : development, networking, or cybersecurity</li>
-    <li>🏫 I am pursuing a Bachelor's degree in WEB and Mobile project at Sorbonne University, <strong>I am currently looking for an alternate internship</strong></li>
+    <li>🔎 My passion : development, networking & cybersecurity</li>
+    <li>🏫 Bachelor's degree WEB & Mobile | Sorbonne University<strong>I am currently looking for an alternate internship</strong></li>
     <li>👨🏻‍💻 Feel free to explore some of my computer science projects available on this profile</li>
   </ul>
   <br /><br />
@@ -57,9 +57,9 @@
   <br /><br /><br />
   <h2>GitHub stats</h2>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddyfresnes&theme=vue-dark&hide_border=true"/>
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=teddyfresnes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddyfresnes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddyfresnes&theme=react&hide_border=true"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=teddyfresnes&theme=react&show_icons=true&hide_border=true&count_private=true"/>-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddyfresnes&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   </div>
   <br /><br /><br />
   <h2>🌐 Connect with Me</h2>
