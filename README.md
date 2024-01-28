@@ -1,14 +1,6 @@
 <div id="header" align="left">
   <h2>Hello World, I'm Teddy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/teddy-koehren-51041320b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/teddyfresnes">
-      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=teddyfresnes&style=flat-square&color=blue" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=teddyfresnes&style=flat-square&color=blue" alt=""/>-->
   <h2>
     Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
