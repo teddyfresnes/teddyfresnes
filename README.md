@@ -4,7 +4,7 @@
   <h5>Welcome to my github profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   <ul>
     <li>🔎 I am passionate in computing : development, networking, or cybersecurity</li>
-    <li>🏫 I am pursuing a Bachelor's degree in WEB and Mobile project at Sorbonne University, <strong>currently looking for an alternate internship</strong></li>
+    <li>🏫 I am pursuing a Bachelor's degree in WEB and Mobile project at Sorbonne University, <strong>I am currently looking for an alternate internship</strong></li>
     <li>👨🏻‍💻 Feel free to explore some of my computer science projects available on this profile</li>
   </ul>
   <br /><br />
