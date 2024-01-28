@@ -30,10 +30,10 @@
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/Filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="Filezilla">
     <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-    <img src="https://img.shields.io/badge/Filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="Filezilla">
     <img src="https://img.shields.io/badge/Putty-005CAB?style=for-the-badge" alt="Putty">
     <img src="https://img.shields.io/badge/Hashcat-3498DB?style=for-the-badge" alt="Hashcat">
   <br /><br />
