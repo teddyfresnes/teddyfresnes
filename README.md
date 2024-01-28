@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <h1>KOEHREN Teddy</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/teddy-koehren-51041320b/">
