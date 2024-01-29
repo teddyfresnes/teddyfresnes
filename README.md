@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/SSL%2FTLS-002366?style=for-the-badge&logo=ssl&logoColor=white" alt="SSL/TLS">
   <img src="https://img.shields.io/badge/SMTP-002366?style=for-the-badge&logo=smtp&logoColor=white" alt="SMTP">
   <br /><br /><br />
-  <h2>GitHub stats</h2>
+  <h2>📊 GitHub stats</h2>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddyfresnes&theme=react&hide_border=true"/>
     <!--<img src="https://github-readme-stats.vercel.app/api?username=teddyfresnes&theme=react&show_icons=true&hide_border=true&count_private=true"/>-->
