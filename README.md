@@ -3,9 +3,9 @@
   <!--<img src="https://komarev.com/ghpvc/?username=teddyfresnes&style=flat-square&color=blue" alt=""/>-->
   <h5>Welcome to my github profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   <ul>
+    <li><strong>🕵🏻 Currently looking for a job !</strong></li>
     <li>📍 My passion : development, networking & cybersecurity</li>
     <li>🏫 Bachelor's degree in development, computing | Sorbonne University</li>
-    <li><strong>🕵🏻 Currently looking for a job !</strong></li>
     <li>👨🏻‍💻 Feel free to explore some of my computing projects available on this profile</li>
   </ul>
   <br /><br />
