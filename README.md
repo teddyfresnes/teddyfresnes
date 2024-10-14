@@ -5,7 +5,7 @@
   <ul>
     <li>📍 My passion : development, networking & cybersecurity</li>
     <li>🏫 Bachelor's degree WEB & Mobile | Sorbonne University</li>
-    <li><strong>🕵🏻 Currently looking for an alternate internship</strong></li>
+    <li><strong>🕵🏻 Currently looking for a job !</strong></li>
     <li>👨🏻‍💻 Feel free to explore some of my computing projects available on this profile</li>
   </ul>
   <br /><br />
